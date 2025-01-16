@@ -1,38 +1,52 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Reportar un error
+about: Plantilla para reportar un error en la aplicación
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# 🚨 Bug: [Título del error]
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 📋 Descripción del error
+Por favor, proporciona una descripción detallada del error que encontraste. ¿Qué ocurrió exactamente?
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 🔴 Prioridad
+Selecciona la prioridad con que debe ser solucionado:
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+- [ ] Baja
+- [ ] Media
+- [ ] Alta
+- [ ] Crítica
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## 📝 Pasos para reproducir
+Sigue estos pasos para reproducir el error y ayúdanos a identificarlo:
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+1. Paso 1
+2. Paso 2
+3. Paso 3
 
-**Additional context**
-Add any other context about the problem here.
+## 🔍 Comportamiento esperado
+¿Qué esperabas que sucediera en lugar del error? Cuéntanos cómo debería funcionar normalmente.
+
+## 🖼️ Capturas de pantalla o video
+Si es posible, adjunta una captura de pantalla o video del error para que podamos verlo mejor. ¡Esto ayuda mucho!
+
+## ⚙️ Entorno
+Por favor proporciona detalles sobre el entorno en el que se presentó el error:
+
+- **Sistema operativo**: [Ejemplo: macOS, Windows, Linux]
+- **Navegador web**: [Ejemplo: Google Chrome, Microsoft Edge, Mozilla Firefox]
+- **Versión de la aplicación**: [Ejemplo: 1.2.3]
+- **Dispositivo**: [Ejemplo: PC, móvil, tablet]
+
+## 📅 Fecha y hora
+Cuando ocurrió el error, ¿puedes decirnos en qué fecha y hora lo experimentaste?
+
+---
+
+
+## 💬 Comentarios adicionales
+Agrega cualquier comentario adicional o detalle importante relacionado con el error.
+

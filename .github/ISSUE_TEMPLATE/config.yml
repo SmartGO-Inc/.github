@@ -1,0 +1,16 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Soporte"
+    url: "https://example.com/support"
+    about: "Contáctanos para soporte técnico."
+templates:
+  bug_report:
+    name: 'Reportar un error'
+    description: 'Plantilla para reportar un error en el sistema'
+    labels:
+      - bug
+  feature_request:
+    name: 'Solicitar una nueva característica'
+    description: 'Plantilla para sugerir una nueva característica'
+    labels:
+      - enhancement
