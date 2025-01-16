@@ -1,0 +1,1 @@
+# Repo Global Vanda - SmartGo
