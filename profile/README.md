@@ -25,7 +25,7 @@ _(Los repos principales de la organizacion se listaran aca a medida que se incor
 | Frontend         | TypeScript, Vue 3, PrimeVue    |
 | Estilos          | Tailwind CSS 4                 |
 | Estado           | Pinia                          |
-| Backend          | Node.js, NestJS                |
+| Backend          | Node.js, NestJS, Python, FastAPI |
 | Base de datos    | PostgreSQL                     |
 | Infraestructura  | Docker, GitHub Actions         |
 
